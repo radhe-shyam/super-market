@@ -1,0 +1,20 @@
+/* 
+    Document   : main
+    Created on : Aug 12, 2014, 10:19:35 AM
+    Author     : Radhe
+    Description:
+        Purpose of the stylesheet follows.
+*/
+
+root { 
+    display: block;
+}
+
+a {
+    text-decoration: none;
+}
+a:hover{
+    color:green;
+    text-transform: capitalize;
+    font-weight: bold;
+}
